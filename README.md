@@ -1,2 +1,3 @@
 # hello-world
-Raspberry pi script files
+
+I like cars and autonomous vehicles. I will be autonomous vehicle engineer.
